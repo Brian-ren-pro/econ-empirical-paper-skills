@@ -1,0 +1,6 @@
+interface:
+  display_name: "Econ Paper Pipeline"
+  short_description: "Route an empirical paper to the right workflow"
+  default_prompt: "Use $econ-empirical-paper-pipeline to detect the current stage of this empirical paper project and route it to the next writing or review workflow."
+policy:
+  allow_implicit_invocation: true

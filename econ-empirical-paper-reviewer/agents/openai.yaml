@@ -1,0 +1,6 @@
+interface:
+  display_name: "Econ Empirical Reviewer"
+  short_description: "Simulate review for empirical econ papers"
+  default_prompt: "Use $econ-empirical-paper-reviewer to run an internal reviewer panel on this complete empirical paper draft and produce a revision roadmap."
+policy:
+  allow_implicit_invocation: true

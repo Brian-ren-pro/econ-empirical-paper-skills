@@ -1,0 +1,6 @@
+interface:
+  display_name: "Econ Empirical Paper"
+  short_description: "Draft and revise empirical econ papers"
+  default_prompt: "Use $econ-empirical-paper to organize materials, draft or revise an empirical finance or economics paper, and prepare a pre-review package."
+policy:
+  allow_implicit_invocation: true

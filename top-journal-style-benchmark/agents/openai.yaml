@@ -1,0 +1,6 @@
+interface:
+  display_name: "Top Journal Style Benchmark"
+  short_description: "Benchmark manuscript sections to top journals"
+  default_prompt: "Use $top-journal-style-benchmark to compare this manuscript section against close top-journal exemplars, revise a copy, and validate the revision."
+policy:
+  allow_implicit_invocation: true
